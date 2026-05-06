@@ -433,7 +433,7 @@ export default function Portfolio() {
       <Section id="about" style={{ padding: "100px clamp(16px,5vw,80px)" }}>
         <div style={{ maxWidth: 1200, margin: "0 auto" }}>
           <div style={{ textAlign: "center", marginBottom: 60 }}>
-            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}>// ABOUT ME</div>
+            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}>ABOUT ME</div>
             <h2 className="section-title">Who I Am</h2>
           </div>
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 60, alignItems: "center" }}>
@@ -479,7 +479,7 @@ export default function Portfolio() {
       <Section id="skills" style={{ padding: "100px clamp(16px,5vw,80px)", background: "rgba(255,255,255,0.01)" }}>
         <div style={{ maxWidth: 1200, margin: "0 auto" }}>
           <div style={{ textAlign: "center", marginBottom: 60 }}>
-            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}>// TECH STACK</div>
+            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}> TECH STACK</div>
             <h2 className="section-title">Skills & Technologies</h2>
           </div>
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 60 }}>
@@ -516,7 +516,7 @@ export default function Portfolio() {
       <Section id="experience" style={{ padding: "100px clamp(16px,5vw,80px)" }}>
         <div style={{ maxWidth: 1200, margin: "0 auto" }}>
           <div style={{ textAlign: "center", marginBottom: 60 }}>
-            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}>// CAREER JOURNEY</div>
+            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}> CAREER JOURNEY</div>
             <h2 className="section-title">Work Experience</h2>
           </div>
           <div style={{ position: "relative" }}>
@@ -566,7 +566,7 @@ export default function Portfolio() {
       <Section id="projects" style={{ padding: "100px clamp(16px,5vw,80px)", background: "rgba(255,255,255,0.01)" }}>
         <div style={{ maxWidth: 1200, margin: "0 auto" }}>
           <div style={{ textAlign: "center", marginBottom: 60 }}>
-            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}>// FEATURED WORK</div>
+            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}> FEATURED WORK</div>
             <h2 className="section-title">Key Projects</h2>
           </div>
           <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))", gap: 24 }}>
@@ -592,7 +592,7 @@ export default function Portfolio() {
       <Section id="contact" style={{ padding: "100px clamp(16px,5vw,80px)" }}>
         <div style={{ maxWidth: 800, margin: "0 auto" }}>
           <div style={{ textAlign: "center", marginBottom: 60 }}>
-            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}>// GET IN TOUCH</div>
+            <div style={{ fontFamily: "'Fira Code', monospace", fontSize: 12, color: "#3b82f6", letterSpacing: "0.12em", marginBottom: 12 }}> GET IN TOUCH</div>
             <h2 className="section-title">Let's Work Together</h2>
             <p style={{ fontSize: 16, color: "#64748b", marginTop: 12 }}>Open to new opportunities — feel free to reach out!</p>
           </div>
